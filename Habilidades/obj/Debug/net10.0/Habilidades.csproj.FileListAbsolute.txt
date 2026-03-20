@@ -1,0 +1,15 @@
+/workspaces/PruebaModulo2/Habilidades/bin/Debug/net10.0/Habilidades
+/workspaces/PruebaModulo2/Habilidades/bin/Debug/net10.0/Habilidades.deps.json
+/workspaces/PruebaModulo2/Habilidades/bin/Debug/net10.0/Habilidades.runtimeconfig.json
+/workspaces/PruebaModulo2/Habilidades/bin/Debug/net10.0/Habilidades.dll
+/workspaces/PruebaModulo2/Habilidades/bin/Debug/net10.0/Habilidades.pdb
+/workspaces/PruebaModulo2/Habilidades/obj/Debug/net10.0/Habilidades.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/PruebaModulo2/Habilidades/obj/Debug/net10.0/Habilidades.AssemblyInfoInputs.cache
+/workspaces/PruebaModulo2/Habilidades/obj/Debug/net10.0/Habilidades.AssemblyInfo.cs
+/workspaces/PruebaModulo2/Habilidades/obj/Debug/net10.0/Habilidades.csproj.CoreCompileInputs.cache
+/workspaces/PruebaModulo2/Habilidades/obj/Debug/net10.0/Habilidades.sourcelink.json
+/workspaces/PruebaModulo2/Habilidades/obj/Debug/net10.0/Habilidades.dll
+/workspaces/PruebaModulo2/Habilidades/obj/Debug/net10.0/refint/Habilidades.dll
+/workspaces/PruebaModulo2/Habilidades/obj/Debug/net10.0/Habilidades.pdb
+/workspaces/PruebaModulo2/Habilidades/obj/Debug/net10.0/Habilidades.genruntimeconfig.cache
+/workspaces/PruebaModulo2/Habilidades/obj/Debug/net10.0/ref/Habilidades.dll

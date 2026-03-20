@@ -1,0 +1,10 @@
+using System;
+namespace Habilidades.Members
+{
+    public class Member
+    {
+        public string Name { get; set; }
+        public string Role { get; set; }
+    }       
+}
+     

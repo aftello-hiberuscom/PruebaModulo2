@@ -1,0 +1,13 @@
+
+namespace Habilidades.Comments
+{
+    public class Comments
+    {
+    // crea un método que genere un comentario para una habilidad determinada. 
+    
+        public string GenerateComment(string skillName, string comment)
+        {
+            return $"Comentario sobre {skillName}: {comment}";
+        }
+    }
+}
